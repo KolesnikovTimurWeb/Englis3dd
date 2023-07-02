@@ -287,8 +287,8 @@ burgerClose.addEventListener('click', function () {
 })
 ScrollReveal({
    distance: '100px',
-   duration: 1700,
-   delay: 100,
+   duration: 2700,
+   delay: 200,
    reset: false,
 });
 document.addEventListener("DOMContentLoaded", function () {
