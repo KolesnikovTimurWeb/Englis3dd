@@ -297,11 +297,11 @@ document.addEventListener("DOMContentLoaded", function () {
    Splitting();
 
 
-   ScrollReveal().reveal(" h1 span", { delay: 100, origin: "left", interval: 50 });
-   ScrollReveal().reveal(" .title h2 span", { delay: 100, origin: "left", interval: 100 });
-   ScrollReveal().reveal(" .steps-mobile-h2 h2 span", { delay: 100, origin: "left", interval: 100 });
-   ScrollReveal().reveal(" .steps-text h2 span", { delay: 100, origin: "left", interval: 100 });
-   ScrollReveal().reveal(" .chance-text h2 span", { delay: 100, origin: "left", interval: 100 });
+   ScrollReveal().reveal(" h1 span", { delay: 200, origin: "left", interval: 50 });
+   ScrollReveal().reveal(" .title h2 span", { delay: 200, origin: "left", interval: 100 });
+   ScrollReveal().reveal(" .steps-mobile-h2 h2 span", { delay: 200, origin: "left", interval: 100 });
+   ScrollReveal().reveal(" .steps-text h2 span", { delay: 200, origin: "left", interval: 100 });
+   ScrollReveal().reveal(" .chance-text h2 span", { delay: 200, origin: "left", interval: 100 });
    ScrollReveal().reveal(" .global-button p", { delay: 1700, origin: "top", interval: 50 });
    ScrollReveal().reveal(" .global-subtext ", { delay: 2400, origin: "top", interval: 50 });
    ScrollReveal().reveal(" .forwho-item img ", { delay: 500, origin: "top", interval: 100 });
